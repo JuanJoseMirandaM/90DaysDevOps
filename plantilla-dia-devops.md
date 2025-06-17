@@ -2,7 +2,6 @@
 
 📅 **Fecha:** 14/06/2025  
 📂 **Semana:** 1 — Día 1  
-🔗 **Reto original:** [90 Days of DevOps - Día 1](https://90daysdevops.295devops.com/semana-01/dia1)
 
 ---
 
@@ -30,6 +29,7 @@
 
 ## 📎 Recursos
 
+* 🧠 [Artículo del reto Día X](https://90daysdevops.295devops.com/semana-01/dia2)
 [Texto aqui]
 
 -----
