@@ -1,0 +1,10 @@
+Vagrant.configure("2") do |config|
+  # Usa una imagen ligera de Ubuntu 22.04
+  config.vm.box = "ubuntu/jammy64"
+  
+  # Configuración de red (accesible via IP)
+  config.vm.network "private_network", ip: "192.168.33.20"
+  
+  # Provisionamiento utilizando un script de shell externo para mayor organización
+  config.vm.provision "shell", path: "scripts/instalar_nginx.sh"
+end

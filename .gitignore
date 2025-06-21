@@ -1,0 +1,6 @@
+# Ignorar carpetas de Vagrant
+**/.vagrant/
+
+# Ignorar archivos de macOS
+.DS_Store
+**/.DS_Store
